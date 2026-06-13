@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/miradas-que-dicen-todo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Miradas que dicen todo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/miradas-que-dicen-todo/) |
+| **Get License** | [Get a Licensing Quote for Miradas que dicen todo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/miradas-que-dicen-todo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tus ojos negros, baby, dicen todo de ti
+> You know the vibe, tonight I’m taking you away with me
+> La noche brilla, pero tú iluminas la ciudad
+> Un beso lento y no me pidas que dé marcha atrás
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
