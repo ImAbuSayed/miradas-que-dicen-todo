@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Miradas que dicen todo
+
+This log tracks the cryptographic history and versioning for the song **Miradas que dicen todo** (miradas-que-dicen-todo).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T04:02:23.140317 | `v1` | `e613a004d1996c223b5c92553e45f0d215341a666bcbaeba97135097c2bd3257` | `af540ff4d30e52c10ef40a8603a2ce0acb27703a9e1ff300af6026d54aa6e4f8` | `2026-06-14_miradas-que-dicen-todo-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
